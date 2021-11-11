@@ -4,6 +4,9 @@
 </br >
 </br >
 </br >
+## Competitors
+- Coffee Bean
+- Artisan Coffee
 ## The Dark Past
 Generally coffee bean supply chains suffer from **lack of transparency**. Customers are wary of supporting illicitly sourced beans, the time of manufacturing, and the process of roasting beans.
 
